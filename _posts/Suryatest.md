@@ -2,5 +2,5 @@
 layout:slide
 title: "welcome to your second slide!"
 ---
-Your text
+This is githubteacher's slide
 Use the left arrow to go back!
